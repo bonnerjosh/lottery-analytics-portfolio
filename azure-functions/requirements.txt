@@ -1,0 +1,2 @@
+azure-functions>=1.21,<2
+google-cloud-bigquery>=3.25,<4
